@@ -15,7 +15,7 @@ public class ContaTerminal {
         System.out.println("Por favor, digite seu nome");
         String nomeCliente = scanner.next();
 
-        double saldo = 639.48; //considerei um saldo já pré-estabelecido para simular melhor um banco
+        double saldo = 639.48;//considerei um saldo já pré-estabelecido para simular melhor um banco
         /*
         System.out.println("Por favor, digite o valor do saldo");
         double saldo = scanner.nextDouble(); 
